@@ -20,7 +20,7 @@ let result = {};
       continue;
     }
     let counter = 0;
-    for (var item in allItems){
+    for (let item in allItems){
       if (key === allItems[item]){
         counter += 1
       }
