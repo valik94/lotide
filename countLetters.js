@@ -32,3 +32,5 @@ const countLetters = function (str){
 
 console.log(countLetters('LHL'));
 console.log(countLetters('lighthouse labs rocks sock'));
+
+module.exports = countLetters;

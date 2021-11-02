@@ -39,3 +39,5 @@ const assertArrayEqual = function (array1, array2){
 }
 
 assertArrayEqual(letterPositions("hello").e, [1]);
+
+module.exports = letterPositions; 

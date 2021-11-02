@@ -68,3 +68,5 @@ assertEqual(eqObjects(ab, ba),true); // => true
 // assertEqual(eqObjects(cd, cd2)); // => false
 
 //I think the test cases are incorrect. I believe my code is compelte here, but without access to mentors I cannot verify. nor correct it if its incorrect.
+
+module.exports = eqObjects;
