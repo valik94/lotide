@@ -1,9 +1,9 @@
-var assert = chai.assert;
+const assert = require('chai').assert;
 
 describe('Array', function() {
   it('should start empty', function() {
     // Test implementation goes here
-    var arr = [];
+    let arr = [];
 
     assert.equal(arr.length, 0);
   });
