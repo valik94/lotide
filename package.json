@@ -1,6 +1,6 @@
 {
   "name": "@valentinlyash/lotide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "week 1 lotide projects from assertArrayEqual to without sorted in alphabetical order * `test directory`: mocha chai style tests to perform case testing on several of the functions including, head,tail and middle and several others.",
   "main": "assertArraysEqual.js",
   "directories": {
